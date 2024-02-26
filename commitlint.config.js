@@ -16,7 +16,6 @@ module.exports = {
         'library',
         'test',
         'deps',
-        'release',
         'pipeline',
       ],
     ],
